@@ -1,8 +1,5 @@
 # Project-2-Customer-Subscription-Analysis
 This project involves analysing customer data for a subscription service to identify  segments and trends. My goal is to understand customer behavior, track subscription types,  and identify key trends in cancellations and renewals. The final deliverable is a Power BI  dashboard that presents my analysis. 
-
-# LITA-Project-2-Customer Subscription Analysis
-This project involves analyzing customer data for a subscription service to identify segments and trends. The goal is to understand customer behavior, track subscription types,  and identify key trends in cancellations and renewals.
  
 ### Excel:
  
@@ -34,7 +31,10 @@ Shown Here:
 -  Find the top 3 regions by subscription cancellations. 
 -  find the total number of active and canceled subscriptions.
 
-has context menu
+Queries shown here.[https://github.com/Judithamaka51/Project-2-Customer-Subscription-Analysis/commit/2a63d0ce1d3bc083d7e0ff6c984bc0bad45c36bf]
 
+### Power BI: 
+- Build a Power BI dashboard that visualizes key customer segments, cancellations, and subscription trends. Include slicers for interactive analysis.
+Shown below;
+<img width="503" alt="image" src="https://github.com/user-attachments/assets/5551d8ee-0176-4495-85dc-8f2dd723b346">
 
-has context menu
